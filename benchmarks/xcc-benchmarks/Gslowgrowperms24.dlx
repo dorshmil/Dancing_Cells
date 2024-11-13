@@ -1,0 +1,578 @@
+| slowgrowperms-dlx-book 24
+p1 q1 p2 q2 p3 q3 p4 q4 p5 q5 p6 q6 p7 q7 p8 q8 p9 q9 pa qa pb qb pc qc pd qd pe qe pf qf pg qg ph qh pi qi pj qj pk qk pl ql pm qm pn qn po qo | 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 1.a 1.b 1.c 1.d 1.e 1.f 1.g 1.h 1.i 1.j 1.k 1.l 1.m 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 2.a 2.b 2.c 2.d 2.e 2.f 2.g 2.h 2.i 2.j 2.k 2.l 2.m 3.1 3.2 3.3 3.4 3.5 3.6 3.7 3.8 3.9 3.a 3.b 3.c 3.d 3.e 3.f 3.g 3.h 3.i 3.j 3.k 3.l 3.m 4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8 4.9 4.a 4.b 4.c 4.d 4.e 4.f 4.g 4.h 4.i 4.j 4.k 4.l 4.m 5.1 5.2 5.3 5.4 5.5 5.6 5.7 5.8 5.9 5.a 5.b 5.c 5.d 5.e 5.f 5.g 5.h 5.i 5.j 5.k 5.l 5.m 6.1 6.2 6.3 6.4 6.5 6.6 6.7 6.8 6.9 6.a 6.b 6.c 6.d 6.e 6.f 6.g 6.h 6.i 6.j 6.k 6.l 6.m 7.1 7.2 7.3 7.4 7.5 7.6 7.7 7.8 7.9 7.a 7.b 7.c 7.d 7.e 7.f 7.g 7.h 7.i 7.j 7.k 7.l 7.m 8.1 8.2 8.3 8.4 8.5 8.6 8.7 8.8 8.9 8.a 8.b 8.c 8.d 8.e 8.f 8.g 8.h 8.i 8.j 8.k 8.l 8.m 9.1 9.2 9.3 9.4 9.5 9.6 9.7 9.8 9.9 9.a 9.b 9.c 9.d 9.e 9.f 9.g 9.h 9.i 9.j 9.k 9.l 9.m a.1 a.2 a.3 a.4 a.5 a.6 a.7 a.8 a.9 a.a a.b a.c a.d a.e a.f a.g a.h a.i a.j a.k a.l a.m b.1 b.2 b.3 b.4 b.5 b.6 b.7 b.8 b.9 b.a b.b b.c b.d b.e b.f b.g b.h b.i b.j b.k b.l b.m c.1 c.2 c.3 c.4 c.5 c.6 c.7 c.8 c.9 c.a c.b c.c c.d c.e c.f c.g c.h c.i c.j c.k c.l c.m d.1 d.2 d.3 d.4 d.5 d.6 d.7 d.8 d.9 d.a d.b d.c d.d d.e d.f d.g d.h d.i d.j d.k d.l d.m e.1 e.2 e.3 e.4 e.5 e.6 e.7 e.8 e.9 e.a e.b e.c e.d e.e e.f e.g e.h e.i e.j e.k e.l e.m f.1 f.2 f.3 f.4 f.5 f.6 f.7 f.8 f.9 f.a f.b f.c f.d f.e f.f f.g f.h f.i f.j f.k f.l f.m g.1 g.2 g.3 g.4 g.5 g.6 g.7 g.8 g.9 g.a g.b g.c g.d g.e g.f g.g g.h g.i g.j g.k g.l g.m h.1 h.2 h.3 h.4 h.5 h.6 h.7 h.8 h.9 h.a h.b h.c h.d h.e h.f h.g h.h h.i h.j h.k h.l h.m i.1 i.2 i.3 i.4 i.5 i.6 i.7 i.8 i.9 i.a i.b i.c i.d i.e i.f i.g i.h i.i i.j i.k i.l i.m j.1 j.2 j.3 j.4 j.5 j.6 j.7 j.8 j.9 j.a j.b j.c j.d j.e j.f j.g j.h j.i j.j j.k j.l j.m k.1 k.2 k.3 k.4 k.5 k.6 k.7 k.8 k.9 k.a k.b k.c k.d k.e k.f k.g k.h k.i k.j k.k k.l k.m l.1 l.2 l.3 l.4 l.5 l.6 l.7 l.8 l.9 l.a l.b l.c l.d l.e l.f l.g l.h l.i l.j l.k l.l l.m m.1 m.2 m.3 m.4 m.5 m.6 m.7 m.8 m.9 m.a m.b m.c m.d m.e m.f m.g m.h m.i m.j m.k m.l m.m n.1 n.2 n.3 n.4 n.5 n.6 n.7 n.8 n.9 n.a n.b n.c n.d n.e n.f n.g n.h n.i n.j n.k n.l n.m
+p1 q1 1.1 1.2 1.4 1.8 1.g
+p1 q2 1.2 1.4 1.8 1.g
+p1 q3 1.3 1.4 1.8 1.g
+p1 q4 1.4 1.8 1.g
+p1 q5 1.5 1.6 1.8 1.g
+p1 q6 1.6 1.8 1.g
+p1 q7 1.7 1.8 1.g
+p1 q8 1.8 1.g
+p1 q9 1.9 1.a 1.c 1.g
+p1 qa 1.a 1.c 1.g
+p1 qb 1.b 1.c 1.g
+p1 qc 1.c 1.g
+p1 qd 1.d 1.e 1.g
+p1 qe 1.e 1.g
+p1 qf 1.f 1.g
+p1 qg 1.g
+p1 qh 1.h 1.i 1.k
+p1 qi 1.i 1.k
+p1 qj 1.j 1.k
+p1 qk 1.k
+p1 ql 1.l 1.m
+p1 qm 1.m
+p1 qn
+p1 qo
+p2 q1 2.1 2.2 2.4 2.8 2.g
+p2 q2 2.2 2.4 2.8 2.g
+p2 q3 1.1 2.3 2.4 2.8 2.g
+p2 q4 1.2 2.4 2.8 2.g
+p2 q5 1.3 1.2 2.5 2.6 2.8 2.g
+p2 q6 1.4 2.6 2.8 2.g
+p2 q7 1.5 1.4 2.7 2.8 2.g
+p2 q8 1.6 1.4 2.8 2.g
+p2 q9 1.7 1.6 1.4 2.9 2.a 2.c 2.g
+p2 qa 1.8 2.a 2.c 2.g
+p2 qb 1.9 1.8 2.b 2.c 2.g
+p2 qc 1.a 1.8 2.c 2.g
+p2 qd 1.b 1.a 1.8 2.d 2.e 2.g
+p2 qe 1.c 1.8 2.e 2.g
+p2 qf 1.d 1.c 1.8 2.f 2.g
+p2 qg 1.e 1.c 1.8 2.g
+p2 qh 1.f 1.e 1.c 1.8 2.h 2.i 2.k
+p2 qi 1.g 2.i 2.k
+p2 qj 1.h 1.g 2.j 2.k
+p2 qk 1.i 1.g 2.k
+p2 ql 1.j 1.i 1.g 2.l 2.m
+p2 qm 1.k 1.g 2.m
+p2 qn 1.l 1.k 1.g
+p2 qo 1.m 1.k 1.g
+p3 q1 3.1 3.2 3.4 3.8 3.g
+p3 q2 3.2 3.4 3.8 3.g
+p3 q3 2.1 3.3 3.4 3.8 3.g
+p3 q4 2.2 3.4 3.8 3.g
+p3 q5 2.3 2.2 3.5 3.6 3.8 3.g
+p3 q6 2.4 3.6 3.8 3.g
+p3 q7 2.5 2.4 3.7 3.8 3.g
+p3 q8 2.6 2.4 3.8 3.g
+p3 q9 2.7 2.6 2.4 3.9 3.a 3.c 3.g
+p3 qa 2.8 3.a 3.c 3.g
+p3 qb 2.9 2.8 3.b 3.c 3.g
+p3 qc 2.a 2.8 3.c 3.g
+p3 qd 2.b 2.a 2.8 3.d 3.e 3.g
+p3 qe 2.c 2.8 3.e 3.g
+p3 qf 2.d 2.c 2.8 3.f 3.g
+p3 qg 2.e 2.c 2.8 3.g
+p3 qh 2.f 2.e 2.c 2.8 3.h 3.i 3.k
+p3 qi 2.g 3.i 3.k
+p3 qj 2.h 2.g 3.j 3.k
+p3 qk 2.i 2.g 3.k
+p3 ql 2.j 2.i 2.g 3.l 3.m
+p3 qm 2.k 2.g 3.m
+p3 qn 2.l 2.k 2.g
+p3 qo 2.m 2.k 2.g
+p4 q1 4.1 4.2 4.4 4.8 4.g
+p4 q2 4.2 4.4 4.8 4.g
+p4 q3 3.1 4.3 4.4 4.8 4.g
+p4 q4 3.2 4.4 4.8 4.g
+p4 q5 3.3 3.2 4.5 4.6 4.8 4.g
+p4 q6 3.4 4.6 4.8 4.g
+p4 q7 3.5 3.4 4.7 4.8 4.g
+p4 q8 3.6 3.4 4.8 4.g
+p4 q9 3.7 3.6 3.4 4.9 4.a 4.c 4.g
+p4 qa 3.8 4.a 4.c 4.g
+p4 qb 3.9 3.8 4.b 4.c 4.g
+p4 qc 3.a 3.8 4.c 4.g
+p4 qd 3.b 3.a 3.8 4.d 4.e 4.g
+p4 qe 3.c 3.8 4.e 4.g
+p4 qf 3.d 3.c 3.8 4.f 4.g
+p4 qg 3.e 3.c 3.8 4.g
+p4 qh 3.f 3.e 3.c 3.8 4.h 4.i 4.k
+p4 qi 3.g 4.i 4.k
+p4 qj 3.h 3.g 4.j 4.k
+p4 qk 3.i 3.g 4.k
+p4 ql 3.j 3.i 3.g 4.l 4.m
+p4 qm 3.k 3.g 4.m
+p4 qn 3.l 3.k 3.g
+p4 qo 3.m 3.k 3.g
+p5 q1 5.1 5.2 5.4 5.8 5.g
+p5 q2 5.2 5.4 5.8 5.g
+p5 q3 4.1 5.3 5.4 5.8 5.g
+p5 q4 4.2 5.4 5.8 5.g
+p5 q5 4.3 4.2 5.5 5.6 5.8 5.g
+p5 q6 4.4 5.6 5.8 5.g
+p5 q7 4.5 4.4 5.7 5.8 5.g
+p5 q8 4.6 4.4 5.8 5.g
+p5 q9 4.7 4.6 4.4 5.9 5.a 5.c 5.g
+p5 qa 4.8 5.a 5.c 5.g
+p5 qb 4.9 4.8 5.b 5.c 5.g
+p5 qc 4.a 4.8 5.c 5.g
+p5 qd 4.b 4.a 4.8 5.d 5.e 5.g
+p5 qe 4.c 4.8 5.e 5.g
+p5 qf 4.d 4.c 4.8 5.f 5.g
+p5 qg 4.e 4.c 4.8 5.g
+p5 qh 4.f 4.e 4.c 4.8 5.h 5.i 5.k
+p5 qi 4.g 5.i 5.k
+p5 qj 4.h 4.g 5.j 5.k
+p5 qk 4.i 4.g 5.k
+p5 ql 4.j 4.i 4.g 5.l 5.m
+p5 qm 4.k 4.g 5.m
+p5 qn 4.l 4.k 4.g
+p5 qo 4.m 4.k 4.g
+p6 q1 6.1 6.2 6.4 6.8 6.g
+p6 q2 6.2 6.4 6.8 6.g
+p6 q3 5.1 6.3 6.4 6.8 6.g
+p6 q4 5.2 6.4 6.8 6.g
+p6 q5 5.3 5.2 6.5 6.6 6.8 6.g
+p6 q6 5.4 6.6 6.8 6.g
+p6 q7 5.5 5.4 6.7 6.8 6.g
+p6 q8 5.6 5.4 6.8 6.g
+p6 q9 5.7 5.6 5.4 6.9 6.a 6.c 6.g
+p6 qa 5.8 6.a 6.c 6.g
+p6 qb 5.9 5.8 6.b 6.c 6.g
+p6 qc 5.a 5.8 6.c 6.g
+p6 qd 5.b 5.a 5.8 6.d 6.e 6.g
+p6 qe 5.c 5.8 6.e 6.g
+p6 qf 5.d 5.c 5.8 6.f 6.g
+p6 qg 5.e 5.c 5.8 6.g
+p6 qh 5.f 5.e 5.c 5.8 6.h 6.i 6.k
+p6 qi 5.g 6.i 6.k
+p6 qj 5.h 5.g 6.j 6.k
+p6 qk 5.i 5.g 6.k
+p6 ql 5.j 5.i 5.g 6.l 6.m
+p6 qm 5.k 5.g 6.m
+p6 qn 5.l 5.k 5.g
+p6 qo 5.m 5.k 5.g
+p7 q1 7.1 7.2 7.4 7.8 7.g
+p7 q2 7.2 7.4 7.8 7.g
+p7 q3 6.1 7.3 7.4 7.8 7.g
+p7 q4 6.2 7.4 7.8 7.g
+p7 q5 6.3 6.2 7.5 7.6 7.8 7.g
+p7 q6 6.4 7.6 7.8 7.g
+p7 q7 6.5 6.4 7.7 7.8 7.g
+p7 q8 6.6 6.4 7.8 7.g
+p7 q9 6.7 6.6 6.4 7.9 7.a 7.c 7.g
+p7 qa 6.8 7.a 7.c 7.g
+p7 qb 6.9 6.8 7.b 7.c 7.g
+p7 qc 6.a 6.8 7.c 7.g
+p7 qd 6.b 6.a 6.8 7.d 7.e 7.g
+p7 qe 6.c 6.8 7.e 7.g
+p7 qf 6.d 6.c 6.8 7.f 7.g
+p7 qg 6.e 6.c 6.8 7.g
+p7 qh 6.f 6.e 6.c 6.8 7.h 7.i 7.k
+p7 qi 6.g 7.i 7.k
+p7 qj 6.h 6.g 7.j 7.k
+p7 qk 6.i 6.g 7.k
+p7 ql 6.j 6.i 6.g 7.l 7.m
+p7 qm 6.k 6.g 7.m
+p7 qn 6.l 6.k 6.g
+p7 qo 6.m 6.k 6.g
+p8 q1 8.1 8.2 8.4 8.8 8.g
+p8 q2 8.2 8.4 8.8 8.g
+p8 q3 7.1 8.3 8.4 8.8 8.g
+p8 q4 7.2 8.4 8.8 8.g
+p8 q5 7.3 7.2 8.5 8.6 8.8 8.g
+p8 q6 7.4 8.6 8.8 8.g
+p8 q7 7.5 7.4 8.7 8.8 8.g
+p8 q8 7.6 7.4 8.8 8.g
+p8 q9 7.7 7.6 7.4 8.9 8.a 8.c 8.g
+p8 qa 7.8 8.a 8.c 8.g
+p8 qb 7.9 7.8 8.b 8.c 8.g
+p8 qc 7.a 7.8 8.c 8.g
+p8 qd 7.b 7.a 7.8 8.d 8.e 8.g
+p8 qe 7.c 7.8 8.e 8.g
+p8 qf 7.d 7.c 7.8 8.f 8.g
+p8 qg 7.e 7.c 7.8 8.g
+p8 qh 7.f 7.e 7.c 7.8 8.h 8.i 8.k
+p8 qi 7.g 8.i 8.k
+p8 qj 7.h 7.g 8.j 8.k
+p8 qk 7.i 7.g 8.k
+p8 ql 7.j 7.i 7.g 8.l 8.m
+p8 qm 7.k 7.g 8.m
+p8 qn 7.l 7.k 7.g
+p8 qo 7.m 7.k 7.g
+p9 q1 9.1 9.2 9.4 9.8 9.g
+p9 q2 9.2 9.4 9.8 9.g
+p9 q3 8.1 9.3 9.4 9.8 9.g
+p9 q4 8.2 9.4 9.8 9.g
+p9 q5 8.3 8.2 9.5 9.6 9.8 9.g
+p9 q6 8.4 9.6 9.8 9.g
+p9 q7 8.5 8.4 9.7 9.8 9.g
+p9 q8 8.6 8.4 9.8 9.g
+p9 q9 8.7 8.6 8.4 9.9 9.a 9.c 9.g
+p9 qa 8.8 9.a 9.c 9.g
+p9 qb 8.9 8.8 9.b 9.c 9.g
+p9 qc 8.a 8.8 9.c 9.g
+p9 qd 8.b 8.a 8.8 9.d 9.e 9.g
+p9 qe 8.c 8.8 9.e 9.g
+p9 qf 8.d 8.c 8.8 9.f 9.g
+p9 qg 8.e 8.c 8.8 9.g
+p9 qh 8.f 8.e 8.c 8.8 9.h 9.i 9.k
+p9 qi 8.g 9.i 9.k
+p9 qj 8.h 8.g 9.j 9.k
+p9 qk 8.i 8.g 9.k
+p9 ql 8.j 8.i 8.g 9.l 9.m
+p9 qm 8.k 8.g 9.m
+p9 qn 8.l 8.k 8.g
+p9 qo 8.m 8.k 8.g
+pa q1 a.1 a.2 a.4 a.8 a.g
+pa q2 a.2 a.4 a.8 a.g
+pa q3 9.1 a.3 a.4 a.8 a.g
+pa q4 9.2 a.4 a.8 a.g
+pa q5 9.3 9.2 a.5 a.6 a.8 a.g
+pa q6 9.4 a.6 a.8 a.g
+pa q7 9.5 9.4 a.7 a.8 a.g
+pa q8 9.6 9.4 a.8 a.g
+pa q9 9.7 9.6 9.4 a.9 a.a a.c a.g
+pa qa 9.8 a.a a.c a.g
+pa qb 9.9 9.8 a.b a.c a.g
+pa qc 9.a 9.8 a.c a.g
+pa qd 9.b 9.a 9.8 a.d a.e a.g
+pa qe 9.c 9.8 a.e a.g
+pa qf 9.d 9.c 9.8 a.f a.g
+pa qg 9.e 9.c 9.8 a.g
+pa qh 9.f 9.e 9.c 9.8 a.h a.i a.k
+pa qi 9.g a.i a.k
+pa qj 9.h 9.g a.j a.k
+pa qk 9.i 9.g a.k
+pa ql 9.j 9.i 9.g a.l a.m
+pa qm 9.k 9.g a.m
+pa qn 9.l 9.k 9.g
+pa qo 9.m 9.k 9.g
+pb q1 b.1 b.2 b.4 b.8 b.g
+pb q2 b.2 b.4 b.8 b.g
+pb q3 a.1 b.3 b.4 b.8 b.g
+pb q4 a.2 b.4 b.8 b.g
+pb q5 a.3 a.2 b.5 b.6 b.8 b.g
+pb q6 a.4 b.6 b.8 b.g
+pb q7 a.5 a.4 b.7 b.8 b.g
+pb q8 a.6 a.4 b.8 b.g
+pb q9 a.7 a.6 a.4 b.9 b.a b.c b.g
+pb qa a.8 b.a b.c b.g
+pb qb a.9 a.8 b.b b.c b.g
+pb qc a.a a.8 b.c b.g
+pb qd a.b a.a a.8 b.d b.e b.g
+pb qe a.c a.8 b.e b.g
+pb qf a.d a.c a.8 b.f b.g
+pb qg a.e a.c a.8 b.g
+pb qh a.f a.e a.c a.8 b.h b.i b.k
+pb qi a.g b.i b.k
+pb qj a.h a.g b.j b.k
+pb qk a.i a.g b.k
+pb ql a.j a.i a.g b.l b.m
+pb qm a.k a.g b.m
+pb qn a.l a.k a.g
+pb qo a.m a.k a.g
+pc q1 c.1 c.2 c.4 c.8 c.g
+pc q2 c.2 c.4 c.8 c.g
+pc q3 b.1 c.3 c.4 c.8 c.g
+pc q4 b.2 c.4 c.8 c.g
+pc q5 b.3 b.2 c.5 c.6 c.8 c.g
+pc q6 b.4 c.6 c.8 c.g
+pc q7 b.5 b.4 c.7 c.8 c.g
+pc q8 b.6 b.4 c.8 c.g
+pc q9 b.7 b.6 b.4 c.9 c.a c.c c.g
+pc qa b.8 c.a c.c c.g
+pc qb b.9 b.8 c.b c.c c.g
+pc qc b.a b.8 c.c c.g
+pc qd b.b b.a b.8 c.d c.e c.g
+pc qe b.c b.8 c.e c.g
+pc qf b.d b.c b.8 c.f c.g
+pc qg b.e b.c b.8 c.g
+pc qh b.f b.e b.c b.8 c.h c.i c.k
+pc qi b.g c.i c.k
+pc qj b.h b.g c.j c.k
+pc qk b.i b.g c.k
+pc ql b.j b.i b.g c.l c.m
+pc qm b.k b.g c.m
+pc qn b.l b.k b.g
+pc qo b.m b.k b.g
+pd q1 d.1 d.2 d.4 d.8 d.g
+pd q2 d.2 d.4 d.8 d.g
+pd q3 c.1 d.3 d.4 d.8 d.g
+pd q4 c.2 d.4 d.8 d.g
+pd q5 c.3 c.2 d.5 d.6 d.8 d.g
+pd q6 c.4 d.6 d.8 d.g
+pd q7 c.5 c.4 d.7 d.8 d.g
+pd q8 c.6 c.4 d.8 d.g
+pd q9 c.7 c.6 c.4 d.9 d.a d.c d.g
+pd qa c.8 d.a d.c d.g
+pd qb c.9 c.8 d.b d.c d.g
+pd qc c.a c.8 d.c d.g
+pd qd c.b c.a c.8 d.d d.e d.g
+pd qe c.c c.8 d.e d.g
+pd qf c.d c.c c.8 d.f d.g
+pd qg c.e c.c c.8 d.g
+pd qh c.f c.e c.c c.8 d.h d.i d.k
+pd qi c.g d.i d.k
+pd qj c.h c.g d.j d.k
+pd qk c.i c.g d.k
+pd ql c.j c.i c.g d.l d.m
+pd qm c.k c.g d.m
+pd qn c.l c.k c.g
+pd qo c.m c.k c.g
+pe q1 e.1 e.2 e.4 e.8 e.g
+pe q2 e.2 e.4 e.8 e.g
+pe q3 d.1 e.3 e.4 e.8 e.g
+pe q4 d.2 e.4 e.8 e.g
+pe q5 d.3 d.2 e.5 e.6 e.8 e.g
+pe q6 d.4 e.6 e.8 e.g
+pe q7 d.5 d.4 e.7 e.8 e.g
+pe q8 d.6 d.4 e.8 e.g
+pe q9 d.7 d.6 d.4 e.9 e.a e.c e.g
+pe qa d.8 e.a e.c e.g
+pe qb d.9 d.8 e.b e.c e.g
+pe qc d.a d.8 e.c e.g
+pe qd d.b d.a d.8 e.d e.e e.g
+pe qe d.c d.8 e.e e.g
+pe qf d.d d.c d.8 e.f e.g
+pe qg d.e d.c d.8 e.g
+pe qh d.f d.e d.c d.8 e.h e.i e.k
+pe qi d.g e.i e.k
+pe qj d.h d.g e.j e.k
+pe qk d.i d.g e.k
+pe ql d.j d.i d.g e.l e.m
+pe qm d.k d.g e.m
+pe qn d.l d.k d.g
+pe qo d.m d.k d.g
+pf q1 f.1 f.2 f.4 f.8 f.g
+pf q2 f.2 f.4 f.8 f.g
+pf q3 e.1 f.3 f.4 f.8 f.g
+pf q4 e.2 f.4 f.8 f.g
+pf q5 e.3 e.2 f.5 f.6 f.8 f.g
+pf q6 e.4 f.6 f.8 f.g
+pf q7 e.5 e.4 f.7 f.8 f.g
+pf q8 e.6 e.4 f.8 f.g
+pf q9 e.7 e.6 e.4 f.9 f.a f.c f.g
+pf qa e.8 f.a f.c f.g
+pf qb e.9 e.8 f.b f.c f.g
+pf qc e.a e.8 f.c f.g
+pf qd e.b e.a e.8 f.d f.e f.g
+pf qe e.c e.8 f.e f.g
+pf qf e.d e.c e.8 f.f f.g
+pf qg e.e e.c e.8 f.g
+pf qh e.f e.e e.c e.8 f.h f.i f.k
+pf qi e.g f.i f.k
+pf qj e.h e.g f.j f.k
+pf qk e.i e.g f.k
+pf ql e.j e.i e.g f.l f.m
+pf qm e.k e.g f.m
+pf qn e.l e.k e.g
+pf qo e.m e.k e.g
+pg q1 g.1 g.2 g.4 g.8 g.g
+pg q2 g.2 g.4 g.8 g.g
+pg q3 f.1 g.3 g.4 g.8 g.g
+pg q4 f.2 g.4 g.8 g.g
+pg q5 f.3 f.2 g.5 g.6 g.8 g.g
+pg q6 f.4 g.6 g.8 g.g
+pg q7 f.5 f.4 g.7 g.8 g.g
+pg q8 f.6 f.4 g.8 g.g
+pg q9 f.7 f.6 f.4 g.9 g.a g.c g.g
+pg qa f.8 g.a g.c g.g
+pg qb f.9 f.8 g.b g.c g.g
+pg qc f.a f.8 g.c g.g
+pg qd f.b f.a f.8 g.d g.e g.g
+pg qe f.c f.8 g.e g.g
+pg qf f.d f.c f.8 g.f g.g
+pg qg f.e f.c f.8 g.g
+pg qh f.f f.e f.c f.8 g.h g.i g.k
+pg qi f.g g.i g.k
+pg qj f.h f.g g.j g.k
+pg qk f.i f.g g.k
+pg ql f.j f.i f.g g.l g.m
+pg qm f.k f.g g.m
+pg qn f.l f.k f.g
+pg qo f.m f.k f.g
+ph q1 h.1 h.2 h.4 h.8 h.g
+ph q2 h.2 h.4 h.8 h.g
+ph q3 g.1 h.3 h.4 h.8 h.g
+ph q4 g.2 h.4 h.8 h.g
+ph q5 g.3 g.2 h.5 h.6 h.8 h.g
+ph q6 g.4 h.6 h.8 h.g
+ph q7 g.5 g.4 h.7 h.8 h.g
+ph q8 g.6 g.4 h.8 h.g
+ph q9 g.7 g.6 g.4 h.9 h.a h.c h.g
+ph qa g.8 h.a h.c h.g
+ph qb g.9 g.8 h.b h.c h.g
+ph qc g.a g.8 h.c h.g
+ph qd g.b g.a g.8 h.d h.e h.g
+ph qe g.c g.8 h.e h.g
+ph qf g.d g.c g.8 h.f h.g
+ph qg g.e g.c g.8 h.g
+ph qh g.f g.e g.c g.8 h.h h.i h.k
+ph qi g.g h.i h.k
+ph qj g.h g.g h.j h.k
+ph qk g.i g.g h.k
+ph ql g.j g.i g.g h.l h.m
+ph qm g.k g.g h.m
+ph qn g.l g.k g.g
+ph qo g.m g.k g.g
+pi q1 i.1 i.2 i.4 i.8 i.g
+pi q2 i.2 i.4 i.8 i.g
+pi q3 h.1 i.3 i.4 i.8 i.g
+pi q4 h.2 i.4 i.8 i.g
+pi q5 h.3 h.2 i.5 i.6 i.8 i.g
+pi q6 h.4 i.6 i.8 i.g
+pi q7 h.5 h.4 i.7 i.8 i.g
+pi q8 h.6 h.4 i.8 i.g
+pi q9 h.7 h.6 h.4 i.9 i.a i.c i.g
+pi qa h.8 i.a i.c i.g
+pi qb h.9 h.8 i.b i.c i.g
+pi qc h.a h.8 i.c i.g
+pi qd h.b h.a h.8 i.d i.e i.g
+pi qe h.c h.8 i.e i.g
+pi qf h.d h.c h.8 i.f i.g
+pi qg h.e h.c h.8 i.g
+pi qh h.f h.e h.c h.8 i.h i.i i.k
+pi qi h.g i.i i.k
+pi qj h.h h.g i.j i.k
+pi qk h.i h.g i.k
+pi ql h.j h.i h.g i.l i.m
+pi qm h.k h.g i.m
+pi qn h.l h.k h.g
+pi qo h.m h.k h.g
+pj q1 j.1 j.2 j.4 j.8 j.g
+pj q2 j.2 j.4 j.8 j.g
+pj q3 i.1 j.3 j.4 j.8 j.g
+pj q4 i.2 j.4 j.8 j.g
+pj q5 i.3 i.2 j.5 j.6 j.8 j.g
+pj q6 i.4 j.6 j.8 j.g
+pj q7 i.5 i.4 j.7 j.8 j.g
+pj q8 i.6 i.4 j.8 j.g
+pj q9 i.7 i.6 i.4 j.9 j.a j.c j.g
+pj qa i.8 j.a j.c j.g
+pj qb i.9 i.8 j.b j.c j.g
+pj qc i.a i.8 j.c j.g
+pj qd i.b i.a i.8 j.d j.e j.g
+pj qe i.c i.8 j.e j.g
+pj qf i.d i.c i.8 j.f j.g
+pj qg i.e i.c i.8 j.g
+pj qh i.f i.e i.c i.8 j.h j.i j.k
+pj qi i.g j.i j.k
+pj qj i.h i.g j.j j.k
+pj qk i.i i.g j.k
+pj ql i.j i.i i.g j.l j.m
+pj qm i.k i.g j.m
+pj qn i.l i.k i.g
+pj qo i.m i.k i.g
+pk q1 k.1 k.2 k.4 k.8 k.g
+pk q2 k.2 k.4 k.8 k.g
+pk q3 j.1 k.3 k.4 k.8 k.g
+pk q4 j.2 k.4 k.8 k.g
+pk q5 j.3 j.2 k.5 k.6 k.8 k.g
+pk q6 j.4 k.6 k.8 k.g
+pk q7 j.5 j.4 k.7 k.8 k.g
+pk q8 j.6 j.4 k.8 k.g
+pk q9 j.7 j.6 j.4 k.9 k.a k.c k.g
+pk qa j.8 k.a k.c k.g
+pk qb j.9 j.8 k.b k.c k.g
+pk qc j.a j.8 k.c k.g
+pk qd j.b j.a j.8 k.d k.e k.g
+pk qe j.c j.8 k.e k.g
+pk qf j.d j.c j.8 k.f k.g
+pk qg j.e j.c j.8 k.g
+pk qh j.f j.e j.c j.8 k.h k.i k.k
+pk qi j.g k.i k.k
+pk qj j.h j.g k.j k.k
+pk qk j.i j.g k.k
+pk ql j.j j.i j.g k.l k.m
+pk qm j.k j.g k.m
+pk qn j.l j.k j.g
+pk qo j.m j.k j.g
+pl q1 l.1 l.2 l.4 l.8 l.g
+pl q2 l.2 l.4 l.8 l.g
+pl q3 k.1 l.3 l.4 l.8 l.g
+pl q4 k.2 l.4 l.8 l.g
+pl q5 k.3 k.2 l.5 l.6 l.8 l.g
+pl q6 k.4 l.6 l.8 l.g
+pl q7 k.5 k.4 l.7 l.8 l.g
+pl q8 k.6 k.4 l.8 l.g
+pl q9 k.7 k.6 k.4 l.9 l.a l.c l.g
+pl qa k.8 l.a l.c l.g
+pl qb k.9 k.8 l.b l.c l.g
+pl qc k.a k.8 l.c l.g
+pl qd k.b k.a k.8 l.d l.e l.g
+pl qe k.c k.8 l.e l.g
+pl qf k.d k.c k.8 l.f l.g
+pl qg k.e k.c k.8 l.g
+pl qh k.f k.e k.c k.8 l.h l.i l.k
+pl qi k.g l.i l.k
+pl qj k.h k.g l.j l.k
+pl qk k.i k.g l.k
+pl ql k.j k.i k.g l.l l.m
+pl qm k.k k.g l.m
+pl qn k.l k.k k.g
+pl qo k.m k.k k.g
+pm q1 m.1 m.2 m.4 m.8 m.g
+pm q2 m.2 m.4 m.8 m.g
+pm q3 l.1 m.3 m.4 m.8 m.g
+pm q4 l.2 m.4 m.8 m.g
+pm q5 l.3 l.2 m.5 m.6 m.8 m.g
+pm q6 l.4 m.6 m.8 m.g
+pm q7 l.5 l.4 m.7 m.8 m.g
+pm q8 l.6 l.4 m.8 m.g
+pm q9 l.7 l.6 l.4 m.9 m.a m.c m.g
+pm qa l.8 m.a m.c m.g
+pm qb l.9 l.8 m.b m.c m.g
+pm qc l.a l.8 m.c m.g
+pm qd l.b l.a l.8 m.d m.e m.g
+pm qe l.c l.8 m.e m.g
+pm qf l.d l.c l.8 m.f m.g
+pm qg l.e l.c l.8 m.g
+pm qh l.f l.e l.c l.8 m.h m.i m.k
+pm qi l.g m.i m.k
+pm qj l.h l.g m.j m.k
+pm qk l.i l.g m.k
+pm ql l.j l.i l.g m.l m.m
+pm qm l.k l.g m.m
+pm qn l.l l.k l.g
+pm qo l.m l.k l.g
+pn q1 n.1 n.2 n.4 n.8 n.g
+pn q2 n.2 n.4 n.8 n.g
+pn q3 m.1 n.3 n.4 n.8 n.g
+pn q4 m.2 n.4 n.8 n.g
+pn q5 m.3 m.2 n.5 n.6 n.8 n.g
+pn q6 m.4 n.6 n.8 n.g
+pn q7 m.5 m.4 n.7 n.8 n.g
+pn q8 m.6 m.4 n.8 n.g
+pn q9 m.7 m.6 m.4 n.9 n.a n.c n.g
+pn qa m.8 n.a n.c n.g
+pn qb m.9 m.8 n.b n.c n.g
+pn qc m.a m.8 n.c n.g
+pn qd m.b m.a m.8 n.d n.e n.g
+pn qe m.c m.8 n.e n.g
+pn qf m.d m.c m.8 n.f n.g
+pn qg m.e m.c m.8 n.g
+pn qh m.f m.e m.c m.8 n.h n.i n.k
+pn qi m.g n.i n.k
+pn qj m.h m.g n.j n.k
+pn qk m.i m.g n.k
+pn ql m.j m.i m.g n.l n.m
+pn qm m.k m.g n.m
+pn qn m.l m.k m.g
+pn qo m.m m.k m.g
+po q1
+po q2
+po q3 n.1
+po q4 n.2
+po q5 n.3 n.2
+po q6 n.4
+po q7 n.5 n.4
+po q8 n.6 n.4
+po q9 n.7 n.6 n.4
+po qa n.8
+po qb n.9 n.8
+po qc n.a n.8
+po qd n.b n.a n.8
+po qe n.c n.8
+po qf n.d n.c n.8
+po qg n.e n.c n.8
+po qh n.f n.e n.c n.8
+po qi n.g
+po qj n.h n.g
+po qk n.i n.g
+po ql n.j n.i n.g
+po qm n.k n.g
+po qn n.l n.k n.g
+po qo n.m n.k n.g
