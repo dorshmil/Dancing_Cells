@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "Dancing_Cells"
-  site-url: "https://dorshmil.github.io/Dancing_Cells"
-  description: "implementation of the dancing cells algorithm in python"
-  repo-branch: master
-  repo-url: "https://github.com/dorshmil/Dancing_Cells"
